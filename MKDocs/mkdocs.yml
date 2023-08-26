@@ -1,1 +1,19 @@
 site_name: My Docs
+site_author: Jan Ekstrøm
+site_description: "This is the first MKDocs site"
+
+nav:
+  - Home: /
+  - Welcome to contribute: index.md
+  - Get started: getting_started.md
+  - Pre-Requisites: prereqs.md
+  - Add content: add_content.md
+  - Create new lab: create_new.md
+  - Deploy to IBM Cloud: deploy.md
+  - About: about.md
+
+theme: readthedocs
+markdown_extensions:
+  - attr_list
+  - admonition
+
