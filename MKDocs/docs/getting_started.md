@@ -7,7 +7,7 @@ The first things you need to understand is the way this site is build and how th
 
 Here is the structure of the IBM Maximo Labs:
 
-![Template Architecture](/img/architecture.png)
+![Template Architecture](img/architecture.png)
 
 1. Location of the git repositories
 2. The root folder of the monitor-hands-on-lab git repository. Basically only contain the build script and the MkDocs folder with all the MkDocs content folders.
@@ -15,7 +15,7 @@ Here is the structure of the IBM Maximo Labs:
 4. Only contain the mkdocs.yml file to configure the MkDocs build of this site / sub-site. The content is stored in the docs folder.
 5. Location of the markdown files that is the source files for the specific sub-site. The index.md is the landing page for the lab.
 6. The img folder only contain one folder with the same name as the site / sub-site selected in level 3. This is needed when the complete site is build.
-7. Location of the images for that site / sub-site. They should be referenced as /img/<lab>/<image>.png within the markdown files.
+7. Location of the images for that site / sub-site. They should be referenced as img/<image>.png within the markdown files.
 
 ## Building the labs overview
 

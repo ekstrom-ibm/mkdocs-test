@@ -1,4 +1,5 @@
 site_name: My Docs
+site_url: https://ekstrom-ibm.github.io/mkdocs-test/
 site_author: Jan Ekstrøm
 site_description: "This is the first MKDocs site"
 
