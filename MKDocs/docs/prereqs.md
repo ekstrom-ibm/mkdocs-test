@@ -1,6 +1,6 @@
 # Pre-Requisite Instructions
 
-Here are the required pre-requisites for contributing to The Maximo Labs.
+Here are the required pre-requisites for contributingto this documentation .
 
 ## Install Python 3
 

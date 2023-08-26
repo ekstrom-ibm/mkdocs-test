@@ -1,5 +1,4 @@
-
-# Getting Started with contributing to<br>The IBM Maximo Labs!
+# Getting Started with contributing!
 
 The first things you need to understand is the way this site is build and how the architecture looks like. This is needed so that your changes and additions does not break the consistancy and structure of the complete IBM Maximo Labs site.
 
