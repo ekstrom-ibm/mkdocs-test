@@ -4,7 +4,7 @@ site_author: Jan Ekstrøm
 site_description: "This is the first MKDocs site"
 
 nav:
-  - Home: /
+  - Home: /mkdocs-test/
   - Welcome to contribute: index.md
   - Get started: getting_started.md
   - Pre-Requisites: prereqs.md
@@ -14,6 +14,7 @@ nav:
   - About: about.md
 
 theme: readthedocs
+
 markdown_extensions:
   - attr_list
   - admonition
