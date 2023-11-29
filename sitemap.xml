@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/about/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/add_content/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/create_new/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/deploy/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/getting_started/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ekstrom-ibm.github.io/mkdocs-test/prereqs/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
