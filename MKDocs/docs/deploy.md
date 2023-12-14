@@ -12,5 +12,5 @@ Deploy the site to the github pages:
  
     mkdocs gh-deploy
 
-Go to Actions and wait for the pages-build-deployment to be succesfully completed.
+Go to Actions and wait for the pages-build-deployment to be succesfully completed.</br>
 Then take a look at the deployed site.
