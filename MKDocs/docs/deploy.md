@@ -1,29 +1,16 @@
 # Deploy to IBM Cloud
 
-This part of the contribution is performed by Carlos Ferreia (carlos.ferreira1@ibm.com).</br>
-Contact him to accept your Pull Request and then perform the build and deploy.
+This part of the contribution is performed by the Maximo Labs admin team once they have accepted the Pull Request and merged it into the default branch.</br>
 
-Build the site:
+Build and test the site locally using the default branch:
 
-    cd /Users/carlos.ferreira1ibm.com/ws/mkdocs/mam-hol-project
-    ./build_all_mkdocs.sh
+    git pull
+    cd MKDocs
+    mkdocs serve
  
-Kill MK Docs Process and copy site content:
+Deploy the site to the github pages:
  
-    ps -A | grep mkdocs
-    cd /Users/carlos.ferreira1ibm.com/ws/mkdocs/mam-hol-project
-    cp -R /Users/carlos.ferreira1ibm.com/ws/mkdocs/mam-hol-project/site/* /Users/carlos.ferreira1ibm.com/ws/mkdocs/mam-hol-project/mam-hol/public
-    cd mam-hol
+    mkdocs gh-deploy
 
-
-Deploy using ibm cloud cf push:
-    
-    cd /Users/carlos.ferreira1ibm.com/ws/mkdocs/mam-hol-project/mam-hol
-    ibmcloud login -sso
-    ibmcloud account list
-    Select account 1. IBM (10b59068b84d48c48f8300f8e1e63dba)
-    ibmcloud target -c <<accpunt_id>>
-    ibmcloud api https://api.eu-gb.bluemix.net
-    ibmcloud target --cf-api https://api.eu-gb.bluemix.net -o carlos.ferreira1@ibm.com -s dev
-    ibmcloud cf push
-
+Go to Actions and wait for the pages-build-deployment to be succesfully completed.
+Then take a look at the deployed site.
