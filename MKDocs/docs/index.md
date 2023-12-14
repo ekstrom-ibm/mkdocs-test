@@ -11,6 +11,6 @@ This sub site will provide instructions to how to contribute to the IBM Maximo L
 
 ---
 
-**Updated: 2023-08-26**
+**Updated: 2023-12-01**
 
 ---
